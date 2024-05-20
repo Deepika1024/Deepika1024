@@ -14,4 +14,4 @@ I am enthusiastic about contributing to the tech community and am open to collab
 Let’s connect and craft beautiful digital experiences together!
 
 📫 **Reach Out**: [deepikaayyadurai2@gmail.com](mailto:deepikaayyadurai2@gmail.com)  
-🔗 **LinkedIn**: [Deepika Ayyadurai]([https://www.linkedin.com/in/deepika-ayyadurai](https://www.linkedin.com/in/deepika-ayyadurai-6abaa2208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+🔗 **LinkedIn**: [Deepika Ayyadurai]([(https://www.linkedin.com/in/deepika-ayyadurai-6abaa2208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )])
