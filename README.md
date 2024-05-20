@@ -1,4 +1,4 @@
-### Hello, World! 👋
+### Hello, there! 👋
 
 I'm Deepika Ayyadurai, a driven and enthusiastic B.Tech student at Jai Shriram Engineering College. My journey in the tech world is fueled by a deep passion for design, development, and continuous learning.
 
