@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-I'm Deepika Ayyadurai, a driven and enthusiastic B.Tech student at Jai Shriram Engineering College. My journey in the tech world is fueled by a deep passion for design, development, and continuous learning.
+I'm Deepika Ayyadurai, a driven and enthusiastic B.Tech student. My journey in the tech world is fueled by a deep passion for design, development, and continuous learning.
 
 - ✨ **Design Enthusiast**: I am currently honing my skills in UI/UX design, with a mission to create intuitive and delightful user experiences. 
 - 🛠 **Tech Aficionado**: With proficiency in Python and Java, I have developed a solid foundation in programming. 
