@@ -1,15 +1,15 @@
 ### Hello, there! 👋
 
-I'm Deepika Ayyadurai, a driven and enthusiastic B.Tech student. My journey in the tech world is fueled by a deep passion for design, development, and continuous learning.
+I'm Deepika Ayyadurai, a final-year B.Tech student with a passion for data analytics, visualizations, and continuous learning.
 
-- ✨ **Design Enthusiast**: I am currently honing my skills in UI/UX design, with a mission to create intuitive and delightful user experiences. 
-- 🌟 **Front-End Innovator**: I have developed a project focusing on front-end technology, showcasing my ability to create engaging and interactive user interfaces. 
-- 🔭 **Innovative Developer**: My GitHub repositories showcase a collection of projects that highlight my skills and interests. I have delved into the realms of machine learning and web development, constantly pushing the boundaries of what I can create.
-- 🌱 **Lifelong Learner**: I am currently immersing myself in the fascinating fields of Data Science and Analytics. My learning never stops, and I am always on the lookout for new challenges and knowledge.
-- 🤝 **Collaborative Spirit**: I am eager to connect with like-minded individuals and teams to collaborate on exciting projects.
-  
-My goal is to blend my technical expertise with a keen eye for design to create impactful and user-friendly digital solutions. 
-I am enthusiastic about contributing to the tech community and am open to collaborations that push the envelope of innovation.
+- ✨ **Data Analytics Enthusiast**: I am building my skills in Python, focusing on analyzing and visualizing data to uncover meaningful insights.
+- 🌟 **Visualization Advocate**: I enjoy creating clear and impactful data visualizations, turning numbers into stories that drive decisions.
+- 🔗 **Lifelong Learner**: I am exploring advanced concepts in data science and analytics, staying updated with the latest trends and techniques.
+- 🤝 **Collaborative Spirit**: I love working with others on innovative projects and am eager to learn and contribute as part of a team.
+- ✯ **Design Enthusiast**: I am also exploring UI/UX design to develop intuitive and user-friendly digital experiences.
+
+My goal is to combine data analytics with creative design to craft solutions that are both functional and user-focused. 
+I am excited to take on challenges and collaborate on meaningful projects in the tech space.
 
 Let’s connect and craft beautiful digital experiences together!
 
