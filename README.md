@@ -1,17 +1,18 @@
 ### Hello, there! 👋
 
-I'm Deepika Ayyadurai, a final-year B.Tech student with a passion for data analytics, visualizations, and continuous learning.
+I'm Deepika, a recent B.Tech graduate and aspiring Machine Learning Engineer, passionate about building intelligent systems using AI agent automation and pretrained models.
 
-- ✨ **Data Analytics Enthusiast**: I am building my skills in Python, focusing on analyzing and visualizing data to uncover meaningful insights.
-- 🌟 **Visualization Advocate**: I enjoy creating clear and impactful data visualizations, turning numbers into stories that drive decisions.
-- 🔗 **Lifelong Learner**: I am exploring advanced concepts in data science and analytics, staying updated with the latest trends and techniques.
-- 🤝 **Collaborative Spirit**: I love working with others on innovative projects and am eager to learn and contribute as part of a team.
-- ✯ **Design Enthusiast**: I am also exploring UI/UX design to develop intuitive and user-friendly digital experiences.
+✨ Machine Learning Enthusiast: I design and experiment with ML/DL models to tackle real-world problems — from healthcare predictions to intelligent automation solutions.
 
-My goal is to combine data analytics with creative design to craft solutions that are both functional and user-focused. 
-I am excited to take on challenges and collaborate on meaningful projects in the tech space.
+🧠 Deep Learning Explorer: I'm actively exploring neural networks, CNNs, and pretrained models like YOLO and BERT to speed up development and enhance model performance.
 
-Let’s connect and craft beautiful digital experiences together!
+🤖 AI Agent Automation Builder: I work on automating workflows using platforms like n8n, integrating AI agents with APIs, webhooks, and logic to simplify and streamline complex tasks.
+
+🤝 Collaborative Spirit: I enjoy working in teams, learning from peers, and contributing to impactful and innovative tech projects.
+
+🎯 Goal: To create AI-powered solutions that are not only intelligent and scalable but also intuitive and human-centered.
+
+Let’s connect and build meaningful, AI-driven experiences together!
 
 📫 **Reach Out**: [deepikaayyadurai2@gmail.com](mailto:deepikaayyadurai2@gmail.com)  
 🔗 **LinkedIn**: [Deepika Ayyadurai](https://www.linkedin.com/in/deepika-ayyadurai-6abaa2208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
