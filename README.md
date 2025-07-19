@@ -8,11 +8,5 @@ I'm Deepika, a recent B.Tech graduate and aspiring Machine Learning Engineer, pa
 
 🤖 AI Agent Automation Builder: I work on automating workflows using platforms like n8n, integrating AI agents with APIs, webhooks, and logic to simplify and streamline complex tasks.
 
-🤝 Collaborative Spirit: I enjoy working in teams, learning from peers, and contributing to impactful and innovative tech projects.
-
-🎯 Goal: To create AI-powered solutions that are not only intelligent and scalable but also intuitive and human-centered.
-
-Let’s connect and build meaningful, AI-driven experiences together!
-
 📫 **Reach Out**: [deepikaayyadurai2@gmail.com](mailto:deepikaayyadurai2@gmail.com)  
 🔗 **LinkedIn**: [Deepika Ayyadurai](https://www.linkedin.com/in/deepika-ayyadurai-6abaa2208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
