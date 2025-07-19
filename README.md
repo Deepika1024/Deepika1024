@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-I'm Deepika, a recent B.Tech graduate and aspiring Machine Learning Engineer, passionate about building intelligent systems using AI agent automation and pretrained models.
+I'm Deepika, a recent B.Tech graduate and aspiring Machine Learning Engineer.
 
 ✨ Machine Learning Enthusiast: I design and experiment with ML/DL models to tackle real-world problems — from healthcare predictions to intelligent automation solutions.
 
