@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepika!
 
-<!--
-**Deepika1024/Deepika1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **AI & ML Engineer** who loves turning data into intelligent systems.  
+I enjoy building AI agents, automation workflows, and computer vision applications.
 
-Here are some ideas to get you started:
+### 💡 What I Do
+- 🤖 Build AI agents using **LangChain, Gemini, and n8n**
+- 🧠 Develop ML/DL models for **prediction and automation**
+- 🧩 Work on **computer vision**, **RAG chatbots**, and **AI-based tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- LangChain memory, tools, and agents  
+- Generative AI applications  
+- Neural networks using Keras
+
+### ⚙️ Tech Stack
+<p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bard--v2.png" alt="bard--v2"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
+</p>
+
+### 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-DeepikaAyyadurai-black?logo=github)](https://github.com/DeepikaAyyadurai)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepikaAyyadurai-blue?logo=linkedin)](https://linkedin.com/in/DeepikaAyyadurai)
+[![Gmail](https://img.shields.io/badge/Gmail-deepikaayyadurai@gmail.com-red?logo=gmail)](mailto:deepikaayyadurai@gmail.com)
