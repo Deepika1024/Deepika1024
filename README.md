@@ -24,5 +24,5 @@ I enjoy building AI agents, automation workflows, and computer vision applicatio
 
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepikaAyyadurai)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepikaAyyadurai?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DeepikaAyyadurai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepikaAyyadurai?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DeepikaAyyadurai) <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikaayyadurai@gmail.com)
