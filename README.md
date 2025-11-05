@@ -22,7 +22,7 @@ I enjoy building AI agents, automation workflows, and computer vision applicatio
   <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
 </p>
 
-###LeetCode Stats 
+### 📊LeetCode Stats 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepika_1006?theme=dark&font=Spectral)
 
 ### 🌐 Connect with Me
