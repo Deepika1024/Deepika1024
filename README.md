@@ -22,6 +22,8 @@ I enjoy building AI agents, automation workflows, and computer vision applicatio
   <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Deepika_1006?theme=dark&font=Spectral)
+
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepikaAyyadurai)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepikaAyyadurai?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DeepikaAyyadurai) <br>
